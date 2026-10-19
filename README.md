@@ -8,7 +8,7 @@ Proffesional backend & mobile developer with 3 years experience
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=go,php,python,nodejs,laravel,html,css,js,react,tailwind,git,github,vscode&perline=13" />
+<img src="https://skillicons.dev/icons?i=go,php,python,nodejs,laravel,flutter,html,css,js,react,tailwind,git,github,vscode&perline=14" />
 
 </div>
 
