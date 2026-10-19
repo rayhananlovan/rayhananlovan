@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:6366f1&height=150&section=header&text=Rayhan&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=620&lines=Frontend+Developer;React+%C2%B7+Tailwind+%C2%B7+Laravel;Clean+interfaces%2C+fast+pages" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=620&lines=Backend+Developer;React+%C2%B7+Tailwind+%C2%B7+Laravel;Clean+interfaces%2C+fast+pages" />
 
 Membangun antarmuka web yang rapi, cepat, dan enak dipakai.
 
