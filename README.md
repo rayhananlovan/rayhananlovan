@@ -18,7 +18,7 @@ Proffesional backend & mobile developer with 3 years experience
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=rayhananlovan&repo=jin-asisten&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
 
-<a href="https://github.com/rayhananlovan/h">holo_knight
+<a href="https://github.com/rayhananlovan/holo_knight">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=rayhananlovan&repo=holo_knight&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
 
